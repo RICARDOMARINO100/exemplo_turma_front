@@ -1,1 +1,5 @@
 Algum texto de exemplo
+
+Alguma outra coisa
+Novas frases
+Mudanças de arquivo 
